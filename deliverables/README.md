@@ -20,3 +20,9 @@ Kindly update your GIT repository to reflect your Milestone 01 deliverable. Good
 **Feedback:** Not submitted
 
 **Grade:** 0/15
+
+# Milestone 03
+
+**Feedback:** This is research in the use of multiple linear regression for the prediction of Malta's GDP using key factors. The research value is in the data being gathered and the insights about which feature is ideal. The pipeline presented is somewhat incomplete and needs other steps such as data splitting and model evaluation. Whilst the formula for model creation are presented no model evaluation is provided. It is understood that the researcher does not aim to proceed to the third year with this research which is reflected in the limited scope of this study.
+
+**Grade:** 6/12
